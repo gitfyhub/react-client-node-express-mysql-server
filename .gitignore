@@ -1,2 +1,9 @@
 node_modules
 package-lock.json
+
+_Dockerfile_
+server/.DS_Store
+client/yarn.lock
+server/yarn.lock
+server/src/.DS_Store
+.DS_Store
